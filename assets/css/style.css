@@ -1,4 +1,13 @@
-.w-100{
+.w-full{
     width: 100%; important;
     padding: 1px;
+}
+.rounded_pill{
+    border-radius: 5rem;
+}
+.filter_shadow{
+    filter: drop-shadow(2px 4px 6px black);
+}
+.m{
+    margin: 5px auto;
 }
